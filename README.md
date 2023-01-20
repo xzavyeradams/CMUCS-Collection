@@ -1,5 +1,7 @@
 ### A collection of things I made while taking CS 1 & 2
-*These are not formatted to be run using the desktop version of CMU Graphics. However, it wouldn't be hard to run them. All of the files have a link on the first line to run them in your browser.*
+
+*These are not formatted to be run using the desktop version of CMU Graphics. However, it wouldn't be hard to format it and run them locally. All of the files have a link on the first line to run them in your browser.*
+
 ----
 *List*
 * **CMU Composer** - This was my final project. You can create very short sequences of "music" using CMU's CS2 package. This has bugs I couldn't work out before the due date unfortunately. This project features an advanced UI and a few UX elements I was pretty proud of. This is my magnum opus, albeit it being unfinished. I may go back and remake it, but I have little reason to at the current moment. I took inspiration from Ableton. (**375 lines!**)
