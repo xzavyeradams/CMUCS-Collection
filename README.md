@@ -1,4 +1,11 @@
-# A collection of things I made while taking CS 1 & 2
-**Please note: these are not formatted to work inside the desktop environment, but can easily be made to.**
---
-All files have a link on the very first line where you can go and use the apps instead of having to format them properly. Hover over the commit message for a short description aswell.
+### A collection of things I made while taking CS 1 & 2
+*These are not formatted to be run using the desktop version of CMU Graphics. However, it wouldn't be hard to run them. All of the files have a link on the first line to run them in your browser.*
+----
+*List*
+* **CMU Composer** - This was my final project. You can create very short sequences of "music" using CMU's CS2 package. This has bugs I couldn't work out before the due date unfortunately. This project features an advanced UI and a few UX elements I was pretty proud of. This is my magnum opus, albeit it being unfinished. I may go back and remake it, but I have little reason to at the current moment. I took inspiration from Ableton. (**375 lines!**)
+* **Custom Profile Pic** - This is dated on 3/18/22, all it does is takes advantage of the fact you can set your CMU profile picture to a screenshot of a canvas image inside CMU (instead of the default Panda-thing). I found the API call, and it turns out you can just put any 400x400 jpeg in the request and it will work. Something to note: this does require your authentication token, which can give people access to your account. Please be mindful sharing this. This doesn't require CMU Graphics and will work by itself.
+* **Tic-Tac-Toe** - It's tic-tac-toe, may have 1 or 2 bugs, I can't remember it's almost a year old now. You can go against a "ai" which just randomly picks available spaces, or a friend. Has a menu.
+* **Type and Run** - This is archaic, one of my first sandbox projects. Essentially, you can type out code and run it without restarting the app. Uses python's built in `eval` method.
+* **Velocity Demo** - Super simple, slightly buggy, velocity/friction demo. I don't know about physics, but I thought it was cool. There's a more detailed description in the file itself.
+* **Zombie v2** - There was a v1, but it was barely functional. This is another extremely large project (**390 lines!**) which involves a ton. I could probably write a whole essay on the inner workings of this app. I submitted it to the 2022 Fall Creative Task Competition, albeit not winning the Unit 12 category, I'm still very proud of it. Features a debug mode with cheats, random bullet spread (gets more unstable as it is in the air), a fairly large map, top-down camera with an unfixed canvas (allowing the user to explore the whole map while inside the canvas using math), OOP concepts, and more. It's a top-down endless shooter which takes inspiration from things like: Enter the Gungeon, call of duty zombies, old scratch.org projects, and the black ops dead ops arcade game mode.
+* *I have a TON of projects stashed away in my sandbox, most being unfinished or just creative tasks that are boring. (50+ projects)* [Play it](https://xzavyer.dev/notagame.html)
